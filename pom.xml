@@ -12,8 +12,8 @@
 	<artifactId>example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>example</name>
-	<description>example</description>
+    <name>project</name>
+	<description>project</description>
     <modules>
         <module>web</module>
         <module>common</module>
